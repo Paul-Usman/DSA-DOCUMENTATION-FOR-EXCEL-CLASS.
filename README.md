@@ -9,8 +9,9 @@ This is where I input all the lessons learnt in the excel class.
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Explorative Data Analysis](#Explorative-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
-- [Result/Findings](#Results/Findings)
+- [Result/Findings](#Result/Findings)
 - [Recommendations](#Recommendations)
+- [Limitations](#Limitations)
 ## Project Overview.
 The aim of this project is to use Pivot Tables to generate and answer different questions. From the data collected we were able to show the highest revenue by models. By using pivot tables we were able to connect the dashboard to the various pivot tables using slicers.
 
@@ -58,6 +59,5 @@ The dashboard was created by doing the following:
 Using this report, the company or the conglomerate should make wise decisions on whose line of business or model to invest more money on so as to get adequate return of investment.
 
 #### Limitations 
- The locations of this companies will determine how much they will make. The customers/consumers should be readily available to purchase these problems.
-
+The connection of the pivot table to the dashboard took a while. So, you have to be sure you established the **_Report Connections_** for the slicer.
 #### References
