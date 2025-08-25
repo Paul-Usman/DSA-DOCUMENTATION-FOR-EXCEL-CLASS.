@@ -44,8 +44,15 @@ The dashboard was created by doing the following:
 3. Renaming the table connected to the pivot table to Table1.
 4. Inserting slicers 
 5. Making connections with the dashboard and pivot tables.
-6. Results/Findings
-7. From the analysis, we were able to generate the following:
+
+
+
+
+<img width="795" height="343" alt="Pivot dashboard" src="https://github.com/user-attachments/assets/f4bbe471-1df6-4593-87ff-71aa3747f381" />
+
+
+ ## Results/Findings
+ From the analysis, we were able to generate the following:
 
 ## Result/Findings
 - Find out the total revenue for each region and the sum total
