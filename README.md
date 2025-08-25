@@ -9,8 +9,8 @@ This is where I input all the lessons learnt in the excel class.
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Explorative Data Analysis](#Explorative-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
-- [Result/Findings](Results/Findings)
-- [Recommendations](Recommendations)
+- [Result/Findings](#Results/Findings)
+- [Recommendations](#Recommendations)
 ## Project Overview.
 The aim of this project is to use Pivot Tables to generate and answer different questions. From the data collected we were able to show the highest revenue by models. By using pivot tables we were able to connect the dashboard to the various pivot tables using slicers.
 
