@@ -19,7 +19,7 @@ The aim of this project is to use Pivot Tables to generate and answer different 
  The data used for this class was shared in class in an excel file name **‘Pivot Table.xlsx’**
 
 #### Tools Used
-- Microsoft Excel
+- Ms Excel for data collection [Download Here](https://www.microsoft.com)
 
 ## Data Cleaning and Preparation
 In the initial stage of data cleaning and preparation , we perform the following functions
