@@ -1,4 +1,4 @@
-# DSA-DOCUMENTATION-FOR-EXCEL-CLASS
+# DSA-DOCUMENTATION-FOR-EXCEL-CLASS(pivot tables)
 This is where I input all the lessons learnt in the excel class.
 # Project Topic:  Creation of Dashboard for Company X To show the Highest Revenue Earned
 
